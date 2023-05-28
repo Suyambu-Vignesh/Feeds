@@ -1,0 +1,14 @@
+# code coverage files
+coverage/*
+
+#node modules
+node_modules/*
+
+# JS file
+dist/*
+
+# IDE
+.vscode
+.idea
+.DS_Store
+

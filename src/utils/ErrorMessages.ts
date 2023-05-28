@@ -1,0 +1,5 @@
+export const ERROR_MESSAGE_USER_NOT_FOUND = "User with this ID not found, UserId: "
+export const ERROR_MESSAGE_EMAIL_IN_USE = "The Email Id is in Use"
+export const ERROR_MESSAGE_POST_NOT_FOUND = "Post with this ID not found, PostId: "
+export const ERROR_MESSAGE_COMMENT_NOT_FOUND = "Comment with this ID not found, CommentId: "
+export const ERROR_MESSAGE_INCORRECT_ARG = "The expected agrument is not present in the request"
